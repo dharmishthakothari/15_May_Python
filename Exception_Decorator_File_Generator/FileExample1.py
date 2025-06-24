@@ -1,0 +1,5 @@
+#file = open("C:\\Users\\Admin\\Documents\\kotlin_webinar.txt","r")
+file = open("dict_example7.py","r")
+#file = open("kotlin_webinar.txt","r")
+data=file.read()
+print(data)

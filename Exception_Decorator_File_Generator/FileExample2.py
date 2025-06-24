@@ -1,0 +1,7 @@
+file = open("C:\\Users\\Admin\\Documents\\kotlin_webinar.txt","r")
+data=file.readline()
+print(data)
+data=file.readline()
+print(data)
+data=file.readline()
+print(data)
